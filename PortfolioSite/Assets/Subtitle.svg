@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="239" height="29" viewBox="0 0 239 29">
+  <defs>
+    <clipPath id="clip-Subtitle">
+      <rect width="239" height="29"/>
+    </clipPath>
+  </defs>
+  <g id="Subtitle" clip-path="url(#clip-Subtitle)">
+    <text id="PortfolIo_collection" data-name="PortfolIo collection" transform="translate(4 21)" fill="#c4c4c4" font-size="20" font-family="Blanka-Regular, Blanka"><tspan x="0" y="0">PortfolIo collection</tspan></text>
+  </g>
+</svg>

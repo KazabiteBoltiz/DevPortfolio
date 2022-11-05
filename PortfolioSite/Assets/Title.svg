@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166" height="29" viewBox="0 0 166 29">
+  <defs>
+    <clipPath id="clip-Title">
+      <rect width="166" height="29"/>
+    </clipPath>
+  </defs>
+  <g id="Title" clip-path="url(#clip-Title)">
+    <text id="KazabiteBoltiz" transform="translate(7 22)" fill="#fff" font-size="20" font-family="Blanka-Regular, Blanka"><tspan x="0" y="0">KazabiteBoltiz</tspan></text>
+  </g>
+</svg>
